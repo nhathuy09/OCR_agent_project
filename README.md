@@ -18,7 +18,4 @@ Dự án nghiên cứu và xây dựng hệ thống nhận diện ký tự quang
 
 ## 🚀 Hướng dẫn cài đặt
 
-### 1. Clone dự án
-```bash
-git clone [https://github.com/vonhathuy/smart-ocr-ai-agent.git](https://github.com/vonhathuy/smart-ocr-ai-agent.git)
-cd smart-ocr-ai-agent
+
