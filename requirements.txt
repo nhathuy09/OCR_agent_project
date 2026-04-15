@@ -1,0 +1,11 @@
+paddlepaddle==2.6.1
+paddleocr>=2.7.0
+protobuf==3.20.3
+opencv-python
+numpy
+google-ad
+python-dotenv
+pydantic
+fastapi
+uvicorn
+streamlit
